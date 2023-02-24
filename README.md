@@ -30,9 +30,16 @@ All images were resized to 256x256 and scaled 0-1 pixel values. Data augmented w
 
 ![model](https://user-images.githubusercontent.com/24591039/221213666-7f70673a-0471-4fe5-b876-3ee84fbbf519.png)
 
-[Image above] Model Architecture
+[Image above] Architecture
 
+Model ![model_acc](https://user-images.githubusercontent.com/24591039/221253513-1f894306-1f05-42bb-96fe-b05a7dcd003d.png)
+
+[Image Above] Model Accuracy on training and validation data
+
+![model_loss](https://user-images.githubusercontent.com/24591039/221253802-91898a77-1d0b-4fe5-b107-96366680a82f.png)
+ 
+[Image Above] Model Loss on training and validation data
 
 ![DiseasePred](https://user-images.githubusercontent.com/24591039/221214414-62f36ba7-c110-430a-966b-aab1bf6c32e0.png)
 
-[image Above] Homepage
+[Image Above] Homepage
